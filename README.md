@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Zakariah</h1>
 
+<img align="center" width = "47%" src ="https://github-readme-stats.vercel.app/api?username=zjaibat&theme=gotham&show_icons=true" />
+
 
 
 <br />
