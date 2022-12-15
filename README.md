@@ -10,7 +10,7 @@
 
 <h3 align="center-left">Student at Tennessee Tech University studying cyber security.</h3>
 
-- 🔭 I’m currently working on **Multithread Network scanner**
+- 🔭 I’m currently working on **AI Sentiment analysis tool**
 
 - 🌱 I’m currently learning **cyber security and machine learning**
 
